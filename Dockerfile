@@ -1,4 +1,4 @@
-FROM arm32v7/ubuntu:bionic
+FROM arm64v8/ubuntu:bionic
 MAINTAINER SteamCache.Net Team <team@steamcache.net>
 ARG DEBIAN_FRONTEND=noninteractive
 RUN \
